@@ -62,7 +62,7 @@ plt.plot(recall, precision)
 plt.scatter(recall[n_max], precision[n_max],c='red')
 plt.xlabel('recall')
 plt.ylabel('precision')
-plt.show()
+#plt.show()
 
 
 numero = 0
